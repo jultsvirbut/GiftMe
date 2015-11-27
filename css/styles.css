@@ -1,0 +1,20 @@
+form label {
+  display: inline-block;
+  width: 33.3%;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+div.checkbox  { 
+  background: url(giftmefon.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 10%;
+}
+
+
+
+
+
+
