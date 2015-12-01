@@ -58,6 +58,9 @@ jQuery(document).ready(function(){
         return price;
     }
 
+
+
+
     function reloadTotalPrice() {
         var totalPrice = calculateTotalPrice(),
             priceBlock = $('#totalPrice');
